@@ -2,7 +2,7 @@
 
 A Python SDK for creating and resolving [W3C Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/) on [Hiero](https://hiero.org/) / [Hedera](https://hedera.com/) networks using the [`did:hedera` method](https://github.com/hashgraph/did-method).
 
-[![CI](https://github.com/baseramp/hiero-did-sdk-python/actions/workflows/ci.yml/badge.svg)](https://github.com/baseramp/hiero-did-sdk-python/actions/workflows/ci.yml)
+[![CI](https://github.com/Furasshu47/hiero-did-sdk-python/actions/workflows/ci.yml/badge.svg)](https://github.com/Furasshu47/hiero-did-sdk-python/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 
